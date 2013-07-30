@@ -1,0 +1,12 @@
+<?php Shared: 100 GB gratuitos de almacenamiento en la nube.'<br/><br/>'.Shared es un nuevo servicio de almacenamiento en la nube que ofrece a sus usuarios 100 GB gratuitos de almacenamiento y 1 TB por 9,95 dólares al mes. 
+.'<br/><br/>'.<strong>Shared</strong> es un nuevo servicio de almacenamiento en la nube que ofrece a sus usuarios <strong>100 GB gratuitos</strong> de almacenamiento y 1 TB por 9,95 dólares al mes.<br/><br/>
+
+Mega, Dropbox y otros servicios de almacenamiento de archivos en la nube podrían tener un serio rival próximamente. Esta nueva herramienta ha llegado con una de las ofertas más sorprendentes en materia de almacenamiento, 100 GB gratuitos. Pero, además, ofrece 1 TB de almacenamiento por tan solo 9,95 dólares al mes. <br/><br/>
+
+El lanzamiento oficial de Shared fue el 18 de junio, así que apenas ha pasado un mes. Por el momento sólo se pueden guardar y descargar archivos desde <a href="http://shared.com" target="_blank">Shared.com</a>. Las aplicaciones para dispositivos moviles llegarán "pronto", según sus creadores, pero no hay más detalles.<br/><br/>
+
+<i>"Solucionar sus problemas será la diferencia entre hacerse hueco en el mercado o ser un servicio más"</i>. El diseño es simple, pero elegante, aunque incluye publicidad (de momento no hay, pero la compañía lo especifica claramente). En la página principal aparecen los archivos y la cantidad de almacenamiento que se ha utilizado hasta el momento. Barra de búsquedas, botón de subida y distintas opciones de visualización de los documentos (puede reproducir archivos mp3 y PDF).<br/><br/>
+
+Otra de sus ventajas es que permite enviar enlaces a los archivos que se hayan subido para que cualquier pueda descargarlos sin ser usuario. Además, es moderadamente rápido, aunque obviamente esto también depende de la conexión.<br/><br/>
+
+A primera vista, lo que ofrece suena muy bien. Pero en el almacenamiento en la nube la cantidad no lo es todo. Por ahora funciona bien, pero podría ser más rápido. La ausencia de una aplicación es un problema que debería ser solucionado lo antes posible, aunque para el usuario casual no sea algo vital..'<br/>'.shared-368x180.jpg.'<br/>'.Tech.'<br/>'.2013/07/25 04:13:41.'<br/>'.954301876 ?>
